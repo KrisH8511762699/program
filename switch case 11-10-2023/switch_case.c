@@ -99,59 +99,59 @@ int main()
             printf("6. weast in best product ");
             printf("please choice this product :- ");
             scanf("%d",&pre)
-                switch(pre){
+                    switch(pre){
 
-                    case 1:
-                        printf("1. smart-phone");
-                        printf("2. earphone ");
-                        printf("3. earburds ");
-                        printf("4. t.v. ");
-                        printf("5. other product");
-                        break;
+                        case 1:
+                            printf("1. smart-phone");
+                            printf("2. earphone ");
+                            printf("3. earburds ");
+                            printf("4. t.v. ");
+                            printf("5. other product");
+                            break;
 
-                    case 2:
-                        printf("female clothes");
-                        printf("male clothes");
-                        printf("child clothes");
-                        printf("others product");
-                        break;
+                        case 2:
+                                printf("female clothes");
+                                printf("male clothes");
+                                printf("child clothes");
+                                printf("others product");
+                                break;
 
-                    case 3:
-                        printf("female clothes");
-                        printf("inside clothes");
-                        printf("others product");
-                        break;
+                        case 3:
+                                    printf("female clothes");
+                                    printf("inside clothes");
+                                    printf("others product");
+                                    break;
 
-                    case 4:
-                        printf("male clothes ");
-                        printf("inside clothes");
-                        printf("other product");
-                        break;
+                        case 4:
+                                        printf("male clothes ");
+                                        printf("inside clothes");
+                                        printf("other product");
+                                        break;
 
-                    case 5:
-                        printf("doumbles");
-                        printf("gym clothes ");
-                        printf("protine chake ");
-                        printf("other product ");
-                        break;
+                        case 5:
+                                            printf("doumbles");
+                                            printf("gym clothes ");
+                                            printf("protine chake ");
+                                            printf("other product ");
+                                            break;
 
-                    case 6:
-                        printf("cane product");
-                        printf("watch product");
-                        printf("other product");
-                        break;
+                        case 6:
+                                                printf("cane product");
+                                                printf("watch product");
+                                                printf("other product");
+                                                break;
                 }
             break;
         case 2:
             printf("which is replace the product :- ");
             scanf("%d",&xyz);
 
-            printf("1. electronoics product ");
-            printf("2. clothes product ");
-            printf("3. female product ");
-            printf("4. male product ");
-            printf("5. gym product ");
-            printf("6. weast in best product ");
+                                                    printf("1. electronoics product ");
+                                                    printf("2. clothes product ");
+                                                    printf("3. female product ");
+                                                    printf("4. male product ");
+                                                    printf("5. gym product ");
+                                                    printf("6. weast in best product ");
             printf("please choice this product :- ");
             scanf("%d",&abc)
                 switch(pre){
