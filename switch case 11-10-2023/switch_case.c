@@ -141,6 +141,7 @@ int main()
                         printf("other product");
                         break;
                 }
+            break;
         case 2:
             printf("which is replace the product :- ");
             scanf("%d",&xyz);
@@ -195,6 +196,7 @@ int main()
                         printf("other product");
                         break;
                 }
+            break;
 
 
 
